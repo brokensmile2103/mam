@@ -1,0 +1,18 @@
+{
+    "name": "Mầm — Quản lý nhóm trẻ",
+    "short_name": "Mầm",
+    "description": "Điểm danh, nhật ký bé, thực đơn, học phí cho nhóm trẻ gia đình.",
+    "start_url": "/hom-nay",
+    "id": "/hom-nay",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fdf6f9",
+    "theme_color": "#db2777",
+    "lang": "vi",
+    "icons": [
+        { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+        { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+        { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}
